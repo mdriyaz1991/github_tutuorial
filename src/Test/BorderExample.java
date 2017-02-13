@@ -116,6 +116,9 @@ public class BorderExample {
                 new BorderExample().displayGUI();
             }
         });
-        System.out.println(" Changes made to check git hub updates");
+        System.out.println(" Changes made to check git hub updates 1");
+         System.out.println(" Changes made to check git hub updates 2");
+          System.out.println(" Changes made to check git hub updates 3");
+           System.out.println(" Changes made to check git hub updates 4");
     }
 }
